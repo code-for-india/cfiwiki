@@ -1,4 +1,4 @@
 cfiwiki
 =======
 
-Basic wiki for codefodindia
+wiki for codefodindia
